@@ -1,5 +1,6 @@
 # The Path to Global Happiness: Uncovering Insights Through SQL Analysis
 By John Andrew Trogon
+
 A country is more than just its land, borders, or territories— it is a home for its people, a place where happiness and well-being matter. But, how can we consider that a country is filled with happiness? 
 
 In recent years, a landmark survey assessed global happiness, ranking countries based on their happiness scores. This report includes key factors such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity, each contributing to the overall happiness score of one country. 
