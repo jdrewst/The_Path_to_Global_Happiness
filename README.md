@@ -1,2 +1,1 @@
-# The_Path_to_Global_Happiness
-uncovering insights through a comprehensive SQL analysis.
+# The Path to Global Happiness: Uncovering Insights Through SQL Analysis
