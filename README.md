@@ -20,21 +20,21 @@ RESULTS
 
 10 Happiest Countries in 2015:
 
-![visualization_rq1_2015](https://github.com/user-attachments/assets/addbe527-b4c0-43ec-8b2f-77d1c9012de5)
+![visualization_rq1_2015](https://github.com/user-attachments/assets/5e0969c8-33d2-41c5-923b-b74774fa1a1c)
 
 10 Happiest Countries in 2016:
 
-![visualization_rq1_2016](https://github.com/user-attachments/assets/ae61ebd4-6900-4621-b1fb-3b86919eaebc)
+![visualization_rq1_2016](https://github.com/user-attachments/assets/0cef3f42-a879-4133-9390-b8e90a42c38a)
 
 10 Happiest Countries in 2017: 
 
-![visualization_rq1_2017](https://github.com/user-attachments/assets/46fce916-f014-468e-9590-cd835d3a0f54)
+![visualization_rq1_2017](https://github.com/user-attachments/assets/b237ed7b-c33b-4ab9-b067-0ca61c36d7c3)
 
 Insight: The most notable insight from these graphs is that the happiest countries from 2015 to 2017 remained largely unchanged, with only minor shifts in rankings. 
 
 Happiest Countries in Map:
 
-![visualization_rq1_map](https://github.com/user-attachments/assets/ed2581c1-6bba-4091-b11b-fa1f4040274e)
+![visualization_rq1_map](https://github.com/user-attachments/assets/86354501-4cb8-4c96-a3c4-ddf5b1c332d7)
 
 Insight: As you can see, the map graph suggests that most of these countries are located in Europe. 
 
