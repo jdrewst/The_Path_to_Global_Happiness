@@ -15,7 +15,9 @@ This analysis aims to answer the following questions:
   3. Among the six factors, which one has the most significant impact on happiness?
 
 RESULTS 
+
 (Note: The visualization is created with Power BI)
+
 10 Happiest Countries in 2015:
 ![visualization_rq1_2015](https://github.com/user-attachments/assets/addbe527-b4c0-43ec-8b2f-77d1c9012de5)
 
